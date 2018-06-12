@@ -47,3 +47,5 @@ if __name__ == '__main__':
         else:
             os.remove(item)
             print(u'删除文件 %s' % item)
+
+    print('完毕');
